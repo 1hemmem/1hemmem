@@ -11,7 +11,6 @@
 ### 🌟 About Me
 - I am a solution oriented learner, I learn as much as I need to get the job done.
 - The more I learn, the more I realize how much I don’t know—and I absolutely LOVE it!  
-- I use Arch btw 🤓  
 
 ---
 
