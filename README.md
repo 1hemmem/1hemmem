@@ -1,6 +1,6 @@
 <h1 align="center">👋 Assalamu Alaikum, I'm Hemmem from Algeria 🇩🇿</h1>
 
-<h3 align="center">An AI Developer with Solid Backend Skills</h3>
+<h3 align="center">An AI and Web Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=1hemmem&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
